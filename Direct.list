@@ -26,6 +26,8 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # FUSION360
 DOMAIN-SUFFIX,fusion360.com
+DOMAIN-SUFFIX,autodesk360.com
+DOMAIN-SUFFIX,autodesk.com
 
 # 360
 DOMAIN-SUFFIX,360.com
